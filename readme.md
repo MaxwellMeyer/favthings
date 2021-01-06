@@ -1,4 +1,4 @@
-# Favethings
+# Favthings
 
 ##### Written by Maxwell Meyer and Scott O'neil
 
